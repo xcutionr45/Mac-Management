@@ -27,6 +27,3 @@ do
     fi
 done
 echo "<result>$outputVersion</result>"
-
-
-#ea_display_name	firefox-ESR

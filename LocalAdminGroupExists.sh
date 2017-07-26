@@ -8,8 +8,3 @@ then
 else
     echo "<result>Admin has been removed</result>" 
 fi
-
-    
-
-
-#ea_display_name	Local Admin Group exists

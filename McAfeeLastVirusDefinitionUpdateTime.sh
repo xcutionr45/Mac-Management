@@ -8,7 +8,3 @@ echo "<result>$result</result>"
 else
 echo "<result>Not installed</result>"
 fi
-	
-
-
-#ea_display_name	McAfee Security for Mac Anti-malware - Last Virus Definition Update Time

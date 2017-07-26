@@ -12,7 +12,3 @@ if [[ "$FDE" == "FileVault is On." ]]; then
 else
     echo '<result>File Vault not enabled</result>'
 fi
-
-
-
-#ea_display_name	FileVault Single Sign On

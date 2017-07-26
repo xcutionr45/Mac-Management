@@ -33,6 +33,3 @@ done
 echo "</result>"
 
 unset IFS
-
-
-#ea_display_name	VMware - Virtual Machine List

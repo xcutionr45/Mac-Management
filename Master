@@ -1,3 +1,2 @@
-#!/bin/bash
-
-#test
+#McAfee DAT Version
+result=`/usr/bin/defaults read /Library/Preferences/com.mcafee.ssm.antimalware Update_DATVersion`
